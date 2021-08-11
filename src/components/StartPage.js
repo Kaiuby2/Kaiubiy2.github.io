@@ -27,7 +27,7 @@ const StartPage = (props) => {
                   <>
                     <br></br>
                     Wilkommen. <br></br>
-                    Nutzen sie diese App um sich in folgender Situation
+                    Nutzen sie diese App, um sich in folgender Situation
                     weiterzuhelfen:
                     <br></br>
                     <br></br>Sie haben sich dazu entschieden, Ihre Freunde in
